@@ -43,3 +43,8 @@
 
 * Topic 
   * Graphs with a trend
+  
+[DAY 6](https://github.com/lightencc/IETLS-Class-Notes/blob/master/0908%20DAY%206.md)
+
+* Technique
+ * Fluency markers
