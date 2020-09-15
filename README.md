@@ -47,21 +47,21 @@
 [DAY 6](https://github.com/lightencc/IETLS-Class-Notes/blob/master/0908%20DAY%206.md)
 
 * Technique
- * Fluency markers
+  * Fluency markers
 
 [DAY 7](https://github.com/lightencc/IETLS-Class-Notes/blob/master/0909%20DAY%207.md)
 
 * Technique 
- * Speaking part 1
+  * Speaking part 1
  
 [DAY 8](https://github.com/lightencc/IETLS-Class-Notes/blob/master/0910%20DAY%208.md)
 
 * Technique
- * Describe a chart
+  * Describe a chart
  
 [DAY 9](https://github.com/lightencc/IETLS-Class-Notes/blob/master/0911%20DAY%209.md)
 
 * Technique
- * Speaking Part 3
- * Multiple Choice Questions
+  * Speaking Part 3
+  * Multiple Choice Questions
 * Practies materials
