@@ -65,3 +65,5 @@
   * Speaking Part 3
   * Multiple Choice Questions
 * Practies materials
+  * spelling
+  * synonyms
