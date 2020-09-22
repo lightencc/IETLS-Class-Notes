@@ -56,7 +56,7 @@
  
 [DAY 8](https://github.com/lightencc/IETLS-Class-Notes/blob/master/0910%20DAY%208.md)
 
-* Technique
+* Writing Task 1
   * Describe a chart
  
 [DAY 9](https://github.com/lightencc/IETLS-Class-Notes/blob/master/0911%20DAY%209.md)
