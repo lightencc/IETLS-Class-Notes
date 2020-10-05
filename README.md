@@ -67,3 +67,25 @@
 * Practies materials
   * spelling
   * synonyms
+  
+[DAY 10](https://github.com/lightencc/IETLS-Class-Notes/blob/master/0914%20DAY%2010.md)
+
+* Topics
+  * Education
+* Technique
+  * Matching
+  
+[DAY 11](https://github.com/lightencc/IETLS-Class-Notes/blob/master/0915%20DAY%2011.md)
+
+* Grammar 
+  * Verbals
+* Vocabulary
+  * Education
+  
+[DAY 12](https://github.com/lightencc/IETLS-Class-Notes/blob/master/0916%20DAY%2012.md)
+
+* Writing task 1
+  * Bar chart
+  
+
+
