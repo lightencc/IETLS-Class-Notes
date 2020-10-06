@@ -87,5 +87,27 @@
 * Writing task 1
   * Bar chart
   
+[DAY 13](https://github.com/lightencc/IETLS-Class-Notes/blob/master/0917%20DAY%2013.md)
 
+* Technique
+  * Labeling the diagram
+  
+[DAY 14](https://github.com/lightencc/IETLS-Class-Notes/blob/master/0918%20DAY%2014.md)
 
+* Writing Task 1 
+  * Letter
+
+[DAY 15](https://github.com/lightencc/IETLS-Class-Notes/blob/master/0921%20DAY%2015.md)
+
+* Writing Task 1 
+  * Flow chart
+  
+[DAY 16](https://github.com/lightencc/IETLS-Class-Notes/blob/master/0922%20DAY%2016.md)
+
+* Speaking Task 3
+  * Advantages and Disadvantages
+
+[DAY 17](https://github.com/lightencc/IETLS-Class-Notes/blob/master/0923%20DAY%2017.md)
+
+* Writing Task 2
+  * Band Descriptors
